@@ -5,5 +5,15 @@ This repository has been created to share documents and resources with the facul
 It includes all relevant documents, along with a handout containing links to the tools and concepts discussed throughout the workshop.
 
 Contributors of sldies:
-<pre> **Day 1 and Day 3 Speakers:** - Dr. Sharmila Mande *(Email: sharmila.s.mande@gmail.com)* - Dr. Tarini Shankar Ghosh *(Email: tarini.ghosh@iiitd.ac.in)* - Omprakash Shete *(Email: omprakashs@iiitd.ac.in)* </pre>
+Day 1 and Day 3 Speakers:
+
+Dr. Sharmila Mande  
+Email: sharmila.s.mande@gmail.com
+
+Dr. Tarini Shankar Ghosh  
+Email: tarini.ghosh@iiitd.ac.in
+
+Omprakash Shete  
+Email: omprakashs@iiitd.ac.in
+
 
