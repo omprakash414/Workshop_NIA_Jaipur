@@ -6,6 +6,7 @@ It includes all relevant documents, along with a handout containing links to the
 
 Contributors of sldies:
 Day1 and Day3:
+Dr. Sharmila Mande (Email-sharmila.s.mande@gmail.com)
 Dr. Tarini Shankar Ghosh (Email- tarini.ghosh@iiitd.ac.in)
 Omprakash Shete (Email - omprakashs@iiitd.ac.in)
 
